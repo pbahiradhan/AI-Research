@@ -1,5 +1,3 @@
-/* 
-
 This is the procedure I will be following to collect all of the data from the LLMs and Leetcode. This is bound to change based on if I can find a way to automate this.
 
 
@@ -29,4 +27,3 @@ This is the procedure I will be following to collect all of the data from the LL
                 - Input - ___ 
                 - Output - ___
                 - Expected - ___
-*/
