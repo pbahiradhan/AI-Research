@@ -1,0 +1,32 @@
+/* 
+
+This is the procedure I will be following to collect all of the data from the LLMs and Leetcode. This is bound to change based on if I can find a way to automate this.
+
+
+1. Create new accounts for Leetcode and all of the AIs we will be using for research. Make it clear on Leetcode that the solutions are AI generated.
+2. Collect a sample of 15 Leetcode problems in the Easy, Medium, and Hard categories. Collect them by copy and paste them into a table.
+3. Paste a question into a new chat for GPT-3.5, Gemini, Perplexity AI, and Claude. It should give a set of code to use.
+4. Using the code the AI provides, paste it into Leetcode and run it to see if it accomplishes all of the tasks and test cases. 
+      - If it passes all requirements:
+          - Collect information on runtime and memory.(Collect in ms and mb / how well it performed in those categories compared to other users)
+          - Collect information on the amount of lines of code(excluding comments and empty lines)
+      - If it does not pass all requirements:
+          - Collect data on each attempt of the AI to fix it
+          - Errors that came at each attempt to solve the problem
+          - Copy and paste error messages and collect somewhere to catalog common errors produced by AI.
+          - Which tasks it was unable to complete (Only the first one etc.)
+      - To get a new answer from the AI use this prompt:
+          - The code above is not correct. Here are the test cases and what is being returned by the code:
+              - Test case 1: 
+                - Input - ___ 
+                - Output - ___
+                - Expected - ___
+              - Test case 2: 
+                - Input - ___ 
+                - Output - ___
+                - Expected - ___
+              - Test case 3: 
+                - Input - ___ 
+                - Output - ___
+                - Expected - ___
+*/
